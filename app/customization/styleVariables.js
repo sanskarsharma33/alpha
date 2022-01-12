@@ -1,5 +1,5 @@
 // =================================BACKGROUND=================================
-export const background = 'url("http://s3.amazonaws.com/icalialabs/assets/img/bg.png") no-repeat center center';
+export const background = 'url("/home/sanskar/Documents/alpha/app/customization/styleVariables.js") no-repeat center center';
 
 // =================================COLORS=================================
 
