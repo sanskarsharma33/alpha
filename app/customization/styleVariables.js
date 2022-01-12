@@ -1,5 +1,5 @@
 // =================================BACKGROUND=================================
-export const background = 'url("/home/sanskar/Documents/alpha/app/customization/styleVariables.js") no-repeat center center';
+export const background = 'url("https://free4kwallpapers.com/uploads/originals/2015/09/22/simple-texture-background.jpg") no-repeat center center';
 
 // =================================COLORS=================================
 

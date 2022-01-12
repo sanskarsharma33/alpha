@@ -38,13 +38,13 @@ export class BotContainer extends React.Component { // eslint-disable-line react
     return (
       <div>
         <Helmet
-          title="Alpha"
+          title="Kranti"
           meta={[
             { name: 'description', content: 'Description of BotContainer' },
           ]}
         />
         <BotComponent
-          name="Alpha"
+          name="Kranti"
           conversation={data.conversation}
           active={data.active}
           expanded={data.expanded}

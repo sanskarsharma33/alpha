@@ -1,10 +1,10 @@
 {
-  "name": "Alpha",
+  "name": "Kranti",
   "version": "1.0.0",
   "description": "Craft your own (fully customizable) web-based chatbot",
   "repository": {
     "type": "git",
-    "url": "git://github.com/IcaliaLabs/alpha.git"
+    "url": "https://github.com/sanskarsharma33/alpha"
   },
   "engines": {
     "npm": ">=3",
